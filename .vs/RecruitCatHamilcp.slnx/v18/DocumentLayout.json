@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T00:51:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OurTeam.cshtml",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T00:13:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T21:05:40.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-07T18:47:33.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
