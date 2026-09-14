@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|c:\\users\\carol\\documents\\schools\\university of cincinnati\\2026\\fall\\is 7012\\is7012\\recruitcathamilcp\\recruitcathamilcp\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1D98289A-F716-2BC5-6A62-842FE428397E}|RecruitCatHamilcp\\RecruitCatHamilcp.csproj|solutionrelative:recruitcathamilcp\\pages\\ourteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Models\\Industry.cs",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Industry.cs",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Models\\Industry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:17:11.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\JobTitle.cs",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Models\\JobTitle.cs",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\JobTitle.cs",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Models\\JobTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:17:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Models\\Company.cs",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Company.cs",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Models\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:16:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Models\\Candidate.cs",
+              "RelativeToolTip": "RecruitCatHamilcp\\Pages\\Models\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T23:16:43.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Privacy.cshtml",
@@ -42,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "OurTeam.cshtml",
               "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
               "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\OurTeam.cshtml",
@@ -55,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Index.cshtml",
@@ -67,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\carol\\Documents\\Schools\\University of Cincinnati\\2026\\Fall\\IS 7012\\IS7012\\RecruitCatHamilcp\\RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RecruitCatHamilcp\\Pages\\Shared\\_Layout.cshtml",
