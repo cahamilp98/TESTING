@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecruitCatHamilcp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c664e79e17978defb5e1eaffd05210b01790cac5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7fa9f37ffeb006b33776e791c6c640ba200270")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecruitCatHamilcp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecruitCatHamilcp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

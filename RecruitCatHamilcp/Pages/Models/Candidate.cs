@@ -13,5 +13,11 @@
         public JobTitle JobTitleActual { get; set; }
         public int CompanyId { get; set; }
         public Company Company { get; set; }
+        public string Address { get; set; }
+        public int SocialSecurityNumber { get; set; }
+        public DateTime BirthDate { get; set; }
+        public DateTime? HighSchoolGraduation { get; set; }
+        public DateTime? BachelorsGraduation { get; set; }
+        public bool? HigherDegreeGraduation { get; set; }
     }
 }
