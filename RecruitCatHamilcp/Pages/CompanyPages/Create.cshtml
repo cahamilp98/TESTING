@@ -1,0 +1,79 @@
+@page
+@model RecruitCatHamilcp.Pages.CompanyPages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Company</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Company.Name" class="control-label"></label>
+                <input asp-for="Company.Name" class="form-control" />
+                <span asp-validation-for="Company.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.PositionName" class="control-label"></label>
+                <input asp-for="Company.PositionName" class="form-control" />
+                <span asp-validation-for="Company.PositionName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.MinSalary" class="control-label"></label>
+                <input asp-for="Company.MinSalary" class="form-control" />
+                <span asp-validation-for="Company.MinSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.MaxSalary" class="control-label"></label>
+                <input asp-for="Company.MaxSalary" class="form-control" />
+                <span asp-validation-for="Company.MaxSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.StartDate" class="control-label"></label>
+                <input asp-for="Company.StartDate" class="form-control" />
+                <span asp-validation-for="Company.StartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.Location" class="control-label"></label>
+                <input asp-for="Company.Location" class="form-control" />
+                <span asp-validation-for="Company.Location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.Candidates" class="control-label"></label>
+                <input asp-for="Company.Candidates" class="form-control" />
+                <span asp-validation-for="Company.Candidates" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.IndustryId" class="control-label"></label>
+                <input asp-for="Company.IndustryId" class="form-control" />
+                <span asp-validation-for="Company.IndustryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.Industry" class="control-label"></label>
+                <input asp-for="Company.Industry" class="form-control" />
+                <span asp-validation-for="Company.Industry" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Company.AmountOfTransactions" class="control-label"></label>
+                <input asp-for="Company.AmountOfTransactions" class="form-control" />
+                <span asp-validation-for="Company.AmountOfTransactions" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

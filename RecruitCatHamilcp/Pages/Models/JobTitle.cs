@@ -10,3 +10,4 @@
         public bool? Degree { get; set; }
     }
 }
+ 

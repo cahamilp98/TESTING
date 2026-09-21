@@ -1,0 +1,126 @@
+@page
+@model RecruitCatHamilcp.Pages.CandidatePages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].TargetSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].StartDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].IndustryWorking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].IndustryWorkingId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].JobTitleActualId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].JobTitleActual)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].CompanyId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].Company)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].SocialSecurityNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].BirthDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].HighSchoolGraduation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].BachelorsGraduation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Candidate[0].HigherDegreeGraduation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Candidate) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.TargetSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.StartDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.IndustryWorking)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.IndustryWorkingId)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.JobTitleActualId)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.JobTitleActual)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.CompanyId)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Company)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.SocialSecurityNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.BirthDate)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.HighSchoolGraduation)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.BachelorsGraduation)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.HigherDegreeGraduation)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

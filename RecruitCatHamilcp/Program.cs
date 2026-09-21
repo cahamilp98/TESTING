@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using RecruitCatHamilcp;
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("RecruitCatHamilcpContext") ?? throw new InvalidOperationException("Connection string 'RecruitCatHamilcpContext' not found.");
+
+builder.Services.AddDbContext<RecruitCatHamilcpContext>(options => options.UseSqlServer(connectionString));
+
 
 // Add services to the container.
 builder.Services.AddRazorPages();
